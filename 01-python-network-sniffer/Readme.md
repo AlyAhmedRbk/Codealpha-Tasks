@@ -70,7 +70,6 @@ images/           # Folder with screenshots (add your images here)
 ## ✅ Demo Summary
 - Enter a target hostname/IP
 - Select scan type
-- Get colorful, hacker-style CLI output
 - Save results to a text file (optional)
 
 ---
