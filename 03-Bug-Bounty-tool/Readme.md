@@ -2,8 +2,6 @@
 
 A beginner‑friendly, passive vulnerability and misconfiguration scanner built in Python for learning security testing and bug bounty research. This tool helps analyze web applications for common weaknesses such as missing security headers, weak cookie configurations, exposed admin paths, and publicly accessible `robots.txt`.
 
-This project is designed to be used **safely on local or authorized systems only** and is perfect for students, interns, and beginners building hands‑on security skills.
-
 ---
 
 ## 🚀 Features
